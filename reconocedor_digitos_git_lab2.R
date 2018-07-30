@@ -1,4 +1,4 @@
-3data: https://www.kaggle.com/c/digit-recognizer
+#data: https://www.kaggle.com/c/digit-recognizer
 
 #Integrantes:
 #Alberto.Cavadia 

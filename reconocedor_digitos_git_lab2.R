@@ -2,8 +2,8 @@
 
 #Integrantes:
 #Alberto.Cavadia 
-#Juan. Gómez 
-#José Israel. Rodríguez
+#Juan. GÃ³mez 
+#JosÃ© Israel. RodrÃ­guez
 
 #setwd("C:/Users/Owner/Desktop/tarea 3/CD Tarea2")
 
